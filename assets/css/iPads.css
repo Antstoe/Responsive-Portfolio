@@ -1,0 +1,37 @@
+header .container {
+	width: 720px;
+  }
+  
+  
+  .content {
+	  width: 100%;
+  }
+  
+  .main {
+	width: 720px;
+	margin: 30px auto;
+  }
+  
+  .portfolio {
+	text-align: middle;
+  }
+  
+  .portfolio-item {
+	  width: 305px;
+	  height: 200px;
+  }
+  
+  .portfolio-item:nth-child(even) {
+	  margin-left: 25px;
+  }
+  
+  .contact {
+	width: 610px;
+  }
+  
+  form {
+	width: 100%;
+	max-width: 100%;
+  }
+  
+
