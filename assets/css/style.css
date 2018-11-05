@@ -1,0 +1,9 @@
+
+@import url("default.css");
+
+@import url("Laptop.css") only screen and (max-width: 1024px);
+
+@import url("iPads.css") only screen and (max-width: 768px);
+
+@import url("iPhone.css") only screen and (max-width: 640px);
+
